@@ -1,6 +1,7 @@
 ## Installation
 
 ```bash
+$ yarn or npm install
 $ docker-compose up
 ```
 
